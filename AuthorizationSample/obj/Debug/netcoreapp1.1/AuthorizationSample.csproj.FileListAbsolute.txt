@@ -1,0 +1,9 @@
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\bin\Debug\netcoreapp1.1\AuthorizationSample.deps.json
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\bin\Debug\netcoreapp1.1\AuthorizationSample.runtimeconfig.json
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\bin\Debug\netcoreapp1.1\AuthorizationSample.runtimeconfig.dev.json
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\bin\Debug\netcoreapp1.1\AuthorizationSample.dll
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\bin\Debug\netcoreapp1.1\AuthorizationSample.pdb
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\obj\Debug\netcoreapp1.1\AuthorizationSample.csprojResolveAssemblyReference.cache
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\obj\Debug\netcoreapp1.1\AuthorizationSample.AssemblyInfo.cs
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\obj\Debug\netcoreapp1.1\AuthorizationSample.dll
+C:\Users\mkurpinski\workshops\AuthorizationSample\AuthorizationSample\obj\Debug\netcoreapp1.1\AuthorizationSample.pdb
